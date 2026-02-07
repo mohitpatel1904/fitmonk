@@ -1,12 +1,12 @@
 {
   "/_app": "pages/_app.js",
-  "/contact": "pages/contact.html",
-  "/login": "pages/login.html",
-  "/_document": "pages/_document.js",
-  "/nutrition": "pages/nutrition.html",
-  "/": "pages/index.html",
-  "/dashboard": "pages/dashboard.html",
-  "/workout-plans": "pages/workout-plans.html",
   "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/contact": "pages/contact.html",
+  "/dashboard": "pages/dashboard.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/nutrition": "pages/nutrition.html",
+  "/workout-plans": "pages/workout-plans.html",
   "/404": "pages/404.html"
 }

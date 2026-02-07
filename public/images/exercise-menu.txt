@@ -1,0 +1,9 @@
+This is a placeholder file.
+
+Please replace this with an actual image file named "exercise-menu.jpg"
+showing a selection of workout exercises or a fitness menu interface.
+
+To use this image:
+1. Save an appropriate exercise menu image as "exercise-menu.jpg"
+2. Place it in this directory (public/images/)
+3. The image will be displayed in the blank space on the application 

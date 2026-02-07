@@ -1,0 +1,15 @@
+This file is a placeholder to ensure the images directory exists.
+
+In a production environment, you would place the following images here:
+- fitness-hero.jpg
+- protein.jpg
+- hydration.jpg
+- carbs.jpg
+- workout-meal.jpg
+- meal-prep.jpg
+- user1.jpg
+- user2.jpg
+- user3.jpg
+
+For local development, you can use any placeholder images or download appropriate
+fitness-related images and rename them according to the file names used in the code. 

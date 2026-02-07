@@ -1,0 +1,6 @@
+This is a placeholder file. 
+
+Please replace this with an actual image file named "fitness-workout.jpg"
+showing a person working out in a gym.
+
+See IMAGES-README.md for more information about required images.

@@ -1,0 +1,9 @@
+This is a placeholder file.
+
+Please replace this with the actual image file named "fitmonk-logo.png"
+showing a monk lifting weights on a gold background (the circular logo).
+
+To use the logo:
+1. Save the monk logo image as "fitmonk-logo.png"
+2. Place it in this directory (public/images/)
+3. The Logo component will automatically display it 

@@ -39,7 +39,7 @@ const AuthPage = () => {
     }
   }, [router]);
 
-  const handleLoginChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const handleLoginChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setLoginData(prevState => ({
       ...prevState,
@@ -47,7 +47,7 @@ const AuthPage = () => {
     }));
   };
 
-  const handleSignupChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement>) => {
+  const handleSignupChange = (e: React.ChangeEvent<HTMLInputElement | HTMLSelectElement | HTMLTextAreaElement>) => {
     const { name, value } = e.target;
     setSignupData(prevState => ({
       ...prevState,

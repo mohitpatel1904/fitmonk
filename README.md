@@ -136,11 +136,6 @@ fitmonk/
 - [ ] Real workout tracking with database
 - [ ] Mobile app with React Native
 - [ ] AI-powered workout recommendations
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ---
 
 <p align="center">
